@@ -41,18 +41,23 @@ section {
 
 .navbar > li {                  /* button settings */
     list-style-type: none;      /* disable bullets */
-    width: 100px;
-    height: 20px;
+    width: 150px;
+    height: 30px;
     border: solid 1px black;
     border-radius: 10px;
     background-color: black;
     margin: 5px;
     text-align: center;
+    line-height: 30px;
+    
+    
+    
 }
 
 .navbar > li > a {
     color: white;
     text-decoration: none;
+    
 }
 
 #vertical_flex {

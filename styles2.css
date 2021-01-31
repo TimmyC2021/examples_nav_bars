@@ -1,0 +1,6 @@
+.nav_topbar {
+    flex-direction: row;
+    width: 100vw;
+    justify-content: flex-end;
+}
+
